@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZoneOfFighters", "ZoneOfFighters\ZoneOfFighters\ZoneOfFighters.csproj", "{B3E57248-0495-4356-86C7-232A59511A6B}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ZoneOfFightersContent", "ZoneOfFighters\ZoneOfFightersContent\ZoneOfFightersContent.contentproj", "{A349C254-220B-46E7-BC4C-17099F55A1AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3E57248-0495-4356-86C7-232A59511A6B}.Debug|x86.ActiveCfg = Debug|x86
+		{B3E57248-0495-4356-86C7-232A59511A6B}.Debug|x86.Build.0 = Debug|x86
+		{B3E57248-0495-4356-86C7-232A59511A6B}.Release|x86.ActiveCfg = Release|x86
+		{B3E57248-0495-4356-86C7-232A59511A6B}.Release|x86.Build.0 = Release|x86
+		{A349C254-220B-46E7-BC4C-17099F55A1AD}.Debug|x86.ActiveCfg = Debug|x86
+		{A349C254-220B-46E7-BC4C-17099F55A1AD}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
